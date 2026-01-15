@@ -13,7 +13,7 @@ Hệ thống quản lý nhà trọ chuyên nghiệp được phát triển bằn
 * **Báo cáo & In ấn:**
     * Xuất phiếu thu ra Excel chuyên nghiệp (sử dụng COM Interop).
 
-## 🛠 Công nghệ sử dụng
+## Công nghệ sử dụng
 
 * **Ngôn ngữ:** C# (.NET Framework / .NET Core)
 * **Giao diện:** Windows Forms (WinForms)
@@ -34,4 +34,5 @@ Hệ thống quản lý nhà trọ chuyên nghiệp được phát triển bằn
     Update-Database
     ```
 4.  Chạy dự án (F5).
+   
 **Author:** DYouth572
