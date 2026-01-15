@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="BoardingHouse.BLL/BoardingHouse.BLL.csproj" />
+  <Project Path="BoardingHouse.DAL/BoardingHouse.DAL.csproj" />
+  <Project Path="BoardingHouse.WinForm/BoardingHouse.WinForm.csproj" />
+</Solution>
